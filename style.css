@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+    
+}
+h1{
+    text-align: center;
+
+}
+#scene{
+    height: 300;
+    width: 300;
+    margin-top: 50px;
+}
